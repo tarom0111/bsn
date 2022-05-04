@@ -3,7 +3,7 @@
 #### installation
 rm -rf BSN
 
-https://github.com/tarom0111/bsn/
+git clone https://github.com/tarom0111/bsn/
 #### For Run
 
 cd BSN
